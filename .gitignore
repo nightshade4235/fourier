@@ -1,0 +1,13 @@
+cat > .gitignore << 'EOF'
+# Compiled binary
+fourier
+main
+
+# Object files
+*.o
+*.a
+
+# OS/editor junk
+.DS_Store
+*.swp
+EOF
