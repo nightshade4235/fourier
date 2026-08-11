@@ -76,7 +76,7 @@ or download directly..
 Build (for Unix) using:
 
 ```bash
-cd Fourier
+cd fourier
 
 make
 
