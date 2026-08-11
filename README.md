@@ -105,3 +105,5 @@ make
 * shift + mouse scroll:- zoom in & zoom out
 
 * F:- lock context
+
+currently a work in progress
