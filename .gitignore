@@ -4,11 +4,12 @@ fourier
 main
 
 # Object files
+suorce/*.o
 *.o
-*.a
 
 # OS/editor junk
 .DS_Store
 *.swp
-EOF
+
 cimgui/
+EOF
