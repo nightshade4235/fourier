@@ -68,7 +68,7 @@ This pathtracer works non-polygon graphics, which in other words is that all cal
 Clone using:
 
 ```
-git clone https://github.com/nightshade4235/fourier
+git clone --depth 1 https://github.com/nightshade4235/fourier
 ```
 
 or download directly..
@@ -107,10 +107,3 @@ make
 * F:- lock context
 
 currently a work in progress
-
-
-# Cloning the repository
-
-please clone using the following command as to not copy large unnecessary file history
-
-``` git clone --depth 1 https://github.com/nightshade4235/fourier ```
