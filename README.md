@@ -107,3 +107,10 @@ make
 * F:- lock context
 
 currently a work in progress
+
+
+# Cloning the repository
+
+please clone using the following command as to not copy large unnecessary file history
+
+``` git clone --depth 1 https://github.com/nightshade4235/fourier ```
